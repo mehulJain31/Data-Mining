@@ -1,5 +1,4 @@
 #Mehul Jain
-# 1001229017
 
 from nltk.tokenize import RegexpTokenizer
 from nltk.corpus import stopwords
